@@ -3,7 +3,7 @@
 *  THE SOFTWARE AND INFORMATION CONTAINED HEREIN ARE PROPRIETARY AND CONFIDENTIAL. THIS SOFTWARE IS FOR 
 *   INTERNAL USE ONLY AND ANY REPRODUCTION TO ANY PARTY OUTSIDE IS IS STRICTLY PROHIBITED. 
 *
-* @sumary   RSA Encryption
+* @sumary       RSA Encryption
 * @description  Generate RSA Encryption keys for secure connection
 * @version      1.1.1
 * @file         RSA.py
